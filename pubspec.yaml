@@ -24,4 +24,5 @@ dev_dependencies:
 flutter:
   assets:
     - assets/dp.jpg
+    - assets/category/
   uses-material-design: true
