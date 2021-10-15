@@ -25,4 +25,5 @@ flutter:
   assets:
     - assets/dp.jpg
     - assets/category/
+    - assets/details/cat/
   uses-material-design: true

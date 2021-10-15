@@ -22,6 +22,8 @@ class MyApp extends StatelessWidget {
             ),
         textTheme: GoogleFonts.robotoTextTheme(
           const TextTheme(
+            headline6: TextStyle(
+                color: AppColor.darkFontColor, fontWeight: FontWeight.bold),
             subtitle1: TextStyle(color: AppColor.lightFontColor),
             bodyText1: TextStyle(
                 color: AppColor.darkFontColor, fontWeight: FontWeight.w500),
